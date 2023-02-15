@@ -1,5 +1,5 @@
 //Global Variables
-const DOCUMENTATION_LINK = 'https://docs.google.com/document/d/1uQ3Sp9LvT8ORnd1uxYykX4FRxvCn1vkn30Z0HKTUbPA/edit?usp=sharing'
+const DOCUMENTATION_LINK = 'https://docs.google.com/document/d/1uCqoSNN5fHieTUz-2lBLeBr2hMXIyG_3NlG9rC10zhM/edit?usp=sharing'
 var ui = SpreadsheetApp.getUi()
 var ss = SpreadsheetApp.getActiveSpreadsheet()
 var UsersSheet = ss.getSheetByName('users')
